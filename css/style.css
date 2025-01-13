@@ -1,0 +1,17 @@
+  .note { margin-bottom: 10px; padding: 10px; border: 1px solid #ccc; }
+        .note-content { margin-bottom: 5px; }
+		button svg {padding-bottom: 2px;}
+		code {
+    padding: 10px;
+    color: #fff !important;
+    display: block;
+    background-color: #212529;
+    border-radius: .2rem;
+}
+.tox .tox-promotion {
+    visibility: hidden;
+}
+.category.alert.alert-danger {
+    display: inline-block;
+    padding: 10px;
+}
